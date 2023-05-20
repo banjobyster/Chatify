@@ -5,14 +5,14 @@ Chatify is a real-time chat application that allows users to create, join, and l
 To set up the Chatify app, follow these steps:
 
 <ol>
-<li>Firebase Account Setup: Start by creating an account on Firebase <a href="https://firebase.google.com/">firebase.google.com</a> if you don't already have one.</li>
+<li>Firebase Account Setup: Start by creating an account on <a href="https://firebase.google.com/">Firebase</a> if you don't already have one.</li>
 
 <li>Enable Firestore and Firebase Authentication: In your Firebase project settings, make sure to enable Firestore for the database functionality and Firebase Authentication for user authentication.</li>
 
 <li>Configure Firestore Rules: To ensure secure data access, add the necessary security rules to your Firestore database. You can find the required rules in the firestore.rules.txt file included in the project.</li>
 
 <li>Clone the Project: Clone the Chatify project repository to your local machine using the following command in your terminal:
-<code>git clone [url]</code>
+<code>git clone https://github.com/banjobyster/chatify.git</code>
 </li>
 
 <li>Install Dependencies: Navigate to the project directory in the terminal and install the required dependencies using npm: 
