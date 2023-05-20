@@ -1,5 +1,5 @@
 <h1>Chatify App</h1>
-Chatify is a real-time chat application that allows users to create, join, and leave chat rooms. It provides a seamless chatting experience with features like public rooms and private messaging. The frontend of the app is built with React, and the backend is powered by Firebase.
+Chatify is a real-time chat application that allows users to create, join, and leave chat rooms. It provides a seamless chatting experience with features like public rooms and private rooms. The frontend of the app is built with React, and the backend is powered by Firebase.
 
 <h2>Getting Started</h2>
 To set up the Chatify app, follow these steps:
