@@ -5,7 +5,7 @@ Chatify is a real-time chat application that allows users to create, join, and l
 To set up the Chatify app, follow these steps:
 
 <ol>
-<li>Firebase Account Setup: Start by creating an account on Firebase <a>https://firebase.google.com/</a> if you don't already have one.</li>
+<li>Firebase Account Setup: Start by creating an account on Firebase <a href="https://firebase.google.com/">firebase.google.com</a> if you don't already have one.</li>
 
 <li>Enable Firestore and Firebase Authentication: In your Firebase project settings, make sure to enable Firestore for the database functionality and Firebase Authentication for user authentication.</li>
 
